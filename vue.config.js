@@ -3,5 +3,11 @@ module.exports = defineConfig({
   transpileDependencies: true,
   outputDir: 'docs',
   assetsDir: './',
-  publicPath: './'
+  publicPath: './',
+  pages: {
+    index: {
+      entry: 'src/main.js',
+      title: 'rspepe DevFolio.'
+    }
+  }
 })

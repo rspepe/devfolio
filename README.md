@@ -1,4 +1,4 @@
-# devfolio
+# DevFolio
 
 ## Project setup
 ```
