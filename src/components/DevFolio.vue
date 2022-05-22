@@ -1,9 +1,9 @@
 <template>
-  <div class="hello">
+  <div>
     <h1>{{ msg }}</h1>
     <p>
-      ここはrspepeという開発者の紹介ページです。<br>
-      <a href="https://github.com/rspepe/" target="_blank" rel="noopener">Github</a>.
+      Who is rspepe.<br>
+      <a href="https://github.com/rspepe/" target="_blank" rel="noopener">GitHub</a>.
     </p>
     <h3>Installed Server Side Skils</h3>
     <ul>
@@ -31,7 +31,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
   margin: 40px 0 0;

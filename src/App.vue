@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Me" src="./assets/me.png" width="300" height="300">
   <DevFolio msg="rspepe"/>
 </template>
 
