@@ -27,8 +27,12 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm install -g @vue/cli
-      - run: npm run build
+
+      - name: build
+        run: |
+          npm install
+          npm install @vue/cli-service
+          npm run build
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
