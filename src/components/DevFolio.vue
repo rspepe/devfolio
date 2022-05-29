@@ -9,6 +9,8 @@
     <ul>
       <li><a href="https://www.php.net/" target="_blank" rel="noopener">PHP</a></li>
       <li><a href="https://go.dev/" target="_blank" rel="noopener">Go</a></li>
+      <li><a href="https://www.python.org/" target="_blank" rel="noopener">Python</a></li>
+      <li><a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js</a></li>
     </ul>
     <h3>Installed Frontend Skils</h3>
     <ul>
@@ -18,6 +20,10 @@
     <ul>
       <li><a href="https://aws.amazon.com/" target="_blank" rel="noopener">AWS</a></li>
       <li><a href="https://cloud.google.com/" target="_blank" rel="noopener">GCP</a></li>
+    </ul>
+    <h3>Installing Deep Learning Skils</h3>
+    <ul>
+      <li><a href="https://www.tensorflow.org/" target="_blank" rel="noopener">TensorFlow</a></li>
     </ul>
   </div>
 </template>
