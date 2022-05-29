@@ -1,6 +1,6 @@
 <template>
   <img alt="Me" src="./assets/me.png" width="300" height="300">
-  <DevFolio msg="rspepeとは？"/>
+  <DevFolio msg="About rspepe."/>
 </template>
 
 <script>

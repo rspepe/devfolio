@@ -2,7 +2,7 @@
   <div>
     <h1>{{ msg }}</h1>
     <p>
-      こんな開発者です。<br>
+      I am a web developer.<br>
       <a href="https://github.com/rspepe/" target="_blank" rel="noopener">GitHub</a>.
     </p>
     <h3>Installed Server Side Skils</h3>
