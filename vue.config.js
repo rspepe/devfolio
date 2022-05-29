@@ -8,7 +8,7 @@ module.exports = defineConfig({
     index: {
       entry: 'src/main.js',
       template: 'public/index.html',
-      title: 'rspepe DevFolio.'
+      title: 'rspepe | Full-Stack Web Developer'
     }
   }
 })
