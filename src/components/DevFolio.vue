@@ -25,6 +25,13 @@
     <ul>
       <li><a href="https://www.tensorflow.org/" target="_blank" rel="noopener">TensorFlow</a></li>
     </ul>
+    <h3>Frequently Used Technologies</h3>
+    <ul>
+      <li><a href="https://www.docker.com/" target="_blank" rel="noopener">Docker</a></li>
+      <li><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">Visual Studio Code</a></li>
+      <li><a href="https://brew.sh/" target="_blank" rel="noopener">Homebrew</a></li>
+      <li><a href="https://jupyter.org/" target="_blank" rel="noopener">jupyter</a></li>
+    </ul>
   </div>
 </template>
 
