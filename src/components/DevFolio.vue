@@ -43,6 +43,18 @@
         </div>
       </div>
     </div>
+
+    <div class="showcase-container">
+      <h2>Showcase</h2>
+      <div class="showcase-grid">
+        <div class="showcase-item">
+          <a href="https://rspepe.github.io/minesweeper-online/" target="_blank" rel="noopener">
+            <h3>Minesweeper Online</h3>
+            <p>Classic minesweeper game built with modern web technologies</p>
+          </a>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -65,5 +77,55 @@ a {
 }
 a {
   color: #42b983;
+}
+
+.showcase-container {
+  margin-top: 60px;
+  padding: 20px;
+}
+
+.showcase-container h2 {
+  font-size: 2em;
+  margin-bottom: 30px;
+  color: #2c3e50;
+}
+
+.showcase-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.showcase-item {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 30px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 2px solid #e9ecef;
+}
+
+.showcase-item:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.showcase-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.showcase-item h3 {
+  margin: 0 0 15px 0;
+  color: #42b983;
+  font-size: 1.5em;
+}
+
+.showcase-item p {
+  margin: 0;
+  color: #6c757d;
+  line-height: 1.6;
 }
 </style>
