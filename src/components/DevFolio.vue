@@ -53,6 +53,12 @@
             <p>Classic minesweeper game built with modern web technologies</p>
           </a>
         </div>
+        <div class="showcase-item">
+          <a href="https://rspepe.github.io/holdem-poker-online/" target="_blank" rel="noopener">
+            <h3>Texas Hold'em Poker</h3>
+            <p>Online poker game with Texas Hold'em rules</p>
+          </a>
+        </div>
       </div>
     </div>
   </div>
