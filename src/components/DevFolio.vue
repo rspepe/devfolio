@@ -101,6 +101,15 @@ export default {
           featured: true
         },
         {
+          title: 'DAKENSHI',
+          description:
+            'Can you hear the bad can? Tap, listen, and reject defective cans in a sound-based inspection game. The line keeps accelerating. Three mistakes end your shift.',
+          meta: 'Audio Inspection Game · Published by Sakamo Productions',
+          url: 'https://store.steampowered.com/app/5156410/DAKENSHI/',
+          badge: 'Steam',
+          featured: true
+        },
+        {
           title: "Texas Hold'em Poker",
           description: 'Online poker game with Texas Hold\'em rules.',
           meta: 'Web · Vue.js',
