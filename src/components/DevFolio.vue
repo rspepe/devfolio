@@ -88,7 +88,9 @@ export default {
       links: [
         { label: 'GitHub', url: 'https://github.com/rspepe/' },
         { label: 'Qiita', url: 'https://qiita.com/rspepe/' },
-        { label: 'Steam', url: 'https://store.steampowered.com/app/5081400/HOSHIKUI/' }
+        { label: 'X', url: 'https://x.com/rspepe' },
+        { label: 'YouTube', url: 'https://www.youtube.com/@rspepe' },
+        { label: 'Steam', url: 'https://store.steampowered.com/app/5081400/' }
       ],
       projects: [
         {
@@ -96,7 +98,7 @@ export default {
           description:
             'A star that keeps losing heat. There is no attack button — crashing into other stars is your attack, your healing, your movement, and your exploration.',
           meta: '2D Action Roguelike · Published by Sakamo Productions',
-          url: 'https://store.steampowered.com/app/5081400/HOSHIKUI/',
+          url: 'https://store.steampowered.com/app/5081400/',
           badge: 'Steam',
           featured: true
         },
@@ -105,7 +107,7 @@ export default {
           description:
             'Can you hear the bad can? Tap, listen, and reject defective cans in a sound-based inspection game. The line keeps accelerating. Three mistakes end your shift.',
           meta: 'Audio Inspection Game · Published by Sakamo Productions',
-          url: 'https://store.steampowered.com/app/5156410/DAKENSHI/',
+          url: 'https://store.steampowered.com/app/5156410/',
           badge: 'Steam',
           featured: true
         },
